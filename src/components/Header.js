@@ -6,7 +6,7 @@ function Header() {
   return (
     <div className="header">
       <Container>
-      <Carousel fade>
+      <Carousel className="cat-rousel" variant="dark" fade>
         {
           carousel.map((item, index) => (
             <Carousel.Item key={index}>

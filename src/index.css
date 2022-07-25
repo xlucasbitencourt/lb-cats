@@ -10,8 +10,14 @@ h1 {
   background-color: aqua;
 }
 
-.header h3, .header p {
+/* .header h3, .header p {
   color: black;
+} */
+
+.cat-rousel {
+  margin: 0 auto;
+  max-height: 1280px;
+  max-width: 720px;
 }
 
 .clique {
@@ -22,6 +28,10 @@ h1 {
   line-height: 50px;
 }
 
+.main-body {
+  background-color: bisque;
+}
+
 .card-container {
   display: flex;
   flex-wrap: wrap;
@@ -30,4 +40,8 @@ h1 {
 
 .card-item {
   margin: 10px 20px;
+}
+
+.cat-list {
+  background-color: blueviolet;
 }
