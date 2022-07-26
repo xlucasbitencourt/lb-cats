@@ -1,4 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import CatForm from './components/CatForm';
 import CatList from './components/CatList';
 import Clique from './components/Clique';
 import Header from "./components/Header";
@@ -13,6 +14,7 @@ function App() {
       <Clique />
       <MainBody />
       <CatList />
+      <CatForm />
     </div>
   );
 }
