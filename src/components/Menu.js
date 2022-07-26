@@ -8,7 +8,9 @@ function Menu() {
     <Navbar bg="danger" expand="lg">
       <Container>
         <Navbar.Brand href="#home">Landing Cats</Navbar.Brand>
+        
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="#cards">Cards</Nav.Link>
@@ -20,6 +22,7 @@ function Menu() {
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
+        <Navbar.Text>Link para contato</Navbar.Text>
       </Container>
     </Navbar>
   );

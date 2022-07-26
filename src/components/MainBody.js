@@ -2,7 +2,6 @@ import Button from "react-bootstrap/Button";
 import Container from "react-bootstrap/Container";
 import Card from "react-bootstrap/Card";
 import cards from "../docs/cards";
-import { useState } from "react";
 
 function MainBody() {
 
