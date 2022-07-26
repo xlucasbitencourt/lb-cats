@@ -15,7 +15,7 @@ function MainBody() {
               <Card.Body>
                 <Card.Title>{card.name}</Card.Title>
                 <Card.Text>{card.text}</Card.Text>
-                <Button variant="primary">Clique Aqui</Button>
+                <Button variant={card.button}>Clique Aqui</Button>
               </Card.Body>
             </Card>
           ))}
