@@ -11,7 +11,7 @@ function Menu() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
+            <Nav.Link href="#cards">Cards</Nav.Link>
             <Nav.Link href="#motivos">Motivos</Nav.Link>
             <NavDropdown title="Mais" id="basic-nav-dropdown">
               <NavDropdown.Item href="#contato">Contato</NavDropdown.Item>

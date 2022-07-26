@@ -15,6 +15,7 @@ function App() {
       <Clique />
       <MainBody />
       <CatList />
+      <Clique />
       <CatForm />
       <Footer />
     </div>

@@ -1,7 +1,7 @@
 function Clique() {
   return ( 
     <div className="clique">
-      <p>Clique aqui e fale com um gato!</p>
+      <p>Esta faixa pode conter um <strong>link</strong> para contato rápido</p>
     </div>
    );
 }

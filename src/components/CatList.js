@@ -5,13 +5,13 @@ function CatList() {
   return (
     <div id="motivos" className="cat-list">
       <Container>
-      <h1>Motivos para ter um gato</h1>
+      <h1>Lista de conteúdos</h1>
         <ListGroup variant="flush">
-        <ListGroup.Item action variant="danger">São adoráveis</ListGroup.Item>
-        <ListGroup.Item action variant="success">São dóceis</ListGroup.Item>
-        <ListGroup.Item action>Depois do primeiro, você vai sempre querer mais um</ListGroup.Item>
-        <ListGroup.Item action>Todos gosam de gatos!</ListGroup.Item>
-        <ListGroup.Item action>Se ainda não tem um, adote já!</ListGroup.Item>
+        <ListGroup.Item action variant="danger">Está é uma lista</ListGroup.Item>
+        <ListGroup.Item action variant="success">Ela tem várias funções</ListGroup.Item>
+        <ListGroup.Item action variant="primary">Pode ser usada para lista características de algo</ListGroup.Item>
+        <ListGroup.Item action variant="warning">Também pode ser usada para citar motivos para adquirir um produto ou serviço</ListGroup.Item>
+        <ListGroup.Item action variant="info">Entre várias outras opções!</ListGroup.Item>
       </ListGroup>
     </Container>
     </div>

@@ -2,12 +2,14 @@ import Button from "react-bootstrap/Button";
 import Container from "react-bootstrap/Container";
 import Card from "react-bootstrap/Card";
 import cards from "../docs/cards";
+import { useState } from "react";
 
 function MainBody() {
+
   return (
-    <div className="main-body">
+    <div id="cards" className="main-body">
       <Container>
-        <h1>Titulo do gato</h1>
+        <h1>Cards dos gatos</h1>
         <div className="card-container">
           {cards.map((card, index) => (
             <Card className="card-item" key={index} style={{ width: "18rem" }}>
