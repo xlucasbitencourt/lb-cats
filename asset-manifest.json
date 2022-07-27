@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lb-cats/static/css/main.2d0d14f8.css",
+    "main.js": "/lb-cats/static/js/main.20a14a01.js",
+    "static/js/787.4cea8634.chunk.js": "/lb-cats/static/js/787.4cea8634.chunk.js",
+    "static/media/card3.jpg": "/lb-cats/static/media/card3.878611d896596228c1b0.jpg",
+    "static/media/card1.jpg": "/lb-cats/static/media/card1.b4377a7a3a97d60bf895.jpg",
+    "static/media/cat3.jpg": "/lb-cats/static/media/cat3.0c6fd20540e70f9d14f7.jpg",
+    "static/media/card5.jpg": "/lb-cats/static/media/card5.84ca3584cf9ebb7899f7.jpg",
+    "static/media/cat1.jpg": "/lb-cats/static/media/cat1.44c7496cf4e2c4a91e85.jpg",
+    "static/media/cat2.jpg": "/lb-cats/static/media/cat2.004b8fffb251aa6041b0.jpg",
+    "static/media/card4.jpg": "/lb-cats/static/media/card4.b974a8e002336e468b70.jpg",
+    "static/media/card6.jpg": "/lb-cats/static/media/card6.dbd051938cb2dc7b87d0.jpg",
+    "static/media/card2.jpg": "/lb-cats/static/media/card2.2bb1d0e18b1d72712bcc.jpg",
+    "index.html": "/lb-cats/index.html",
+    "main.2d0d14f8.css.map": "/lb-cats/static/css/main.2d0d14f8.css.map",
+    "main.20a14a01.js.map": "/lb-cats/static/js/main.20a14a01.js.map",
+    "787.4cea8634.chunk.js.map": "/lb-cats/static/js/787.4cea8634.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d0d14f8.css",
+    "static/js/main.20a14a01.js"
+  ]
+}
