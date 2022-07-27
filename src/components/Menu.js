@@ -5,7 +5,7 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 
 function Menu() {
   return (
-    <Navbar bg="danger" expand="lg">
+    <Navbar bg="success" expand="lg">
       <Container>
         <Navbar.Brand href="#home">Landing Cats</Navbar.Brand>
         
@@ -22,7 +22,7 @@ function Menu() {
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
-        <Navbar.Text>Link para contato</Navbar.Text>
+        <Navbar.Text><a href="https://lucasbitencourt.com.br/">Link para contato</a></Navbar.Text>
       </Container>
     </Navbar>
   );

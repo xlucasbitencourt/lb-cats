@@ -12,17 +12,18 @@ h1 {
 }
 
 .header {
-  background-color: aqua;
+  background-color: #56A3A6;
 }
 
 .cat-rousel {
   margin: 0 auto;
   max-height: 1280px;
   max-width: 720px;
+  text-shadow: 0 0 3px #FFF;
 }
 
 .clique {
-  background-color: red;
+  background-color: #C42021;
   font-size: 1rem;
   height: 50px;
   text-align: center;
@@ -30,7 +31,7 @@ h1 {
 }
 
 .main-body {
-  background-color: bisque;
+  background-color: #CAD49D;
 }
 
 .card-container {
@@ -44,7 +45,7 @@ h1 {
 }
 
 .cat-list {
-  background-color: blueviolet;
+  background-color: #D4EAC8;
   padding: 30px 0;
 }
 
@@ -53,13 +54,13 @@ h1 {
 }
 
 .cat-form {
-  background-color: greenyellow;
+  background-color: #C0D8E0;
   padding: 30px 0;
 }
 
 .footer {
+  background-color: #B6B8D6;
   text-align: center;
   height: 80px;
-  margin-bottom: 20px;
   padding: 20px 0;
 }
