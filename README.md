@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Landing Cats
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Seja bem vindo ao projeto Landing Cats!
 
-## Available Scripts
+----
 
-In the project directory, you can run:
+Este é um projeto desenvolvido por mim, **Lucas Bitencourt**, como forma de praticar e demonstrar minhas habilidades.
 
-### `npm start`
+O projeto é uma simulação de uma landing page, utilizando como exemplo, diversos adoráveis gatos. A landing page foi construída utilizando React e Bootstrap para React. A página é responsiva, e pensada para funcionar em diferentes tamanhos de telas.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Sumário
 
-### `npm test`
+- [Objetivo](#objetivo)
+- [Resultado](#resultado)
+- [Instalação](#instalação)
+- [Conclusão](#conclusão)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Objetivo
 
-### `npm run build`
+O objetivo deste projeto, foi demonstrar minhas habilidades abaixo:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- Bootstrap
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Resultado
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Este é o resultado do projeto:
 
-### `npm run eject`
+<img src='./img/cats.png'>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Você também pode visualizar o projeto rodando clicando [aqui](https://lucasbitencourt.com.br/lb-cats/).
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Abaixo, instruções para ter acesso ao código
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+#### Instalação
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+##### Clonando o repositório localmente
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clone o repositório
+     - `git clone git@github.com:xlucasbitencourt/lb-cats.git`
+     - Entre na pasta do repositório que você acabou de clonar:
+     - `cd lb-cats`    
+  <br>
+  
+2. Instale as dependências e inicialize o projeto
+    - `npm install`
+    - `npm start`
 
-### Code Splitting
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Conclusão
 
-### Analyzing the Bundle Size
+Este é um projeto desenvolvido para aprendizado. Caso queira contribuir com algum feedback, sinta-se a vontade para comentar, ou entre em contato comigo:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="https://www.linkedin.com/in/lucasbitencourt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:klucasbitencourt@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
